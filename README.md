@@ -72,7 +72,7 @@ Here’s a breakdown of the tools, technologies, and frameworks I use regularly 
 #### *Databases*
 | *Database*           | *Badge*                                                                                   |
 |-------------------------|---------------------------------------------------------------------------------------------|
-| *Microsoft SQL*       | ![Microsoft SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| *PostgreSQL*       | ![PostgreSQL]([https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)) |
 | *MongoDB*             | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
